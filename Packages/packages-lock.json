@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.lonestar.empty": {
+      "version": "file:com.lonestar.empty",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.12",
       "depth": 0,

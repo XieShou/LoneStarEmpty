@@ -1,0 +1,14 @@
+{
+    "name": "LoneStar.Empty.Editor",
+    "rootNamespace": "LoneStar.Empty.Editor",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
