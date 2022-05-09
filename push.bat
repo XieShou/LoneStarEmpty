@@ -4,7 +4,7 @@ SET ToolName=upm-com.lonestar.empty
 
 ::设置模块版本
 
-SET ToolVersion=1.1.0
+SET ToolVersion=1.2.0
 
 ::设置模块源路径
 
